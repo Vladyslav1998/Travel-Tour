@@ -1,0 +1,56 @@
+/* Variables */
+
+$color-blue: #65C0BA;
+$color-white: #FFFFFF;
+$color-black: #000000;
+$color-gray: #BBBBBB;
+$color-background: #FAFAFA;
+
+/* Global */
+
+*,*::before,*::after {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   line-height: 1.7;
+   font-size: 16px;
+   color: $color-gray;
+}
+
+.container {
+   max-width: 1140px;
+   padding: 0 20px;
+   margin: 0 auto;
+}
+
+section {
+   padding: 68px 0;
+}
+
+/* Splash */
+
+.splash {
+   position: relative;
+   height: 100vh;
+   background-image: liear-gradient(rgba(255, 234, 13, 0.5)), url('https://preview.colorlib.com/theme/hepta/images/slider-1.jpg.webp');
+   background-position: center center;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+.splash-inner {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+   color: $color-black;
+}
+
+.btn-one {
+   padding: 20px 60px;
+   border: 2px solid $color-white;
+   border-radius: 5px;
+}

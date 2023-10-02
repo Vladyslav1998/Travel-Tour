@@ -1,3 +1,49 @@
+/* Variables */
+/* Global */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  line-height: 1.7;
+  font-size: 16px;
+  color: #BBBBBB;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+.container {
+  max-width: 1140px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 68px 0;
+}
+
+/* Splash */
+.splash {
+  position: relative;
+  height: 100vh;
+  background-image: liear-gradient(rgba(255, 234, 13, 0.5)), url("https://preview.colorlib.com/theme/hepta/images/slider-1.jpg.webp");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.splash-inner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #000000;
+}
+
+.btn-one {
+  padding: 20px 60px;
+  border: 2px solid #FFFFFF;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
