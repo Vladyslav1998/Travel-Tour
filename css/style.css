@@ -25,7 +25,7 @@ section {
 .splash {
   position: relative;
   height: 100vh;
-  background-image: liear-gradient(rgba(255, 234, 13, 0.5)), url("https://preview.colorlib.com/theme/hepta/images/slider-1.jpg.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url("https://preview.colorlib.com/theme/hepta/images/slider-1.jpg.webp");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -46,4 +46,4 @@ section {
   border-radius: 5px;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBUUEsV0FBQTtBQUVBO0VBQ0csc0JBQUE7QUNQSDs7QURVQTtFQUNHLFNBQUE7RUFDQSxnQkFBQTtFQUNBLGVBQUE7RUFDQSxjQWJVO0FDTWI7O0FEVUE7RUFDRyxpQkFBQTtFQUNBLGVBQUE7RUFDQSxjQUFBO0FDUEg7O0FEVUE7RUFDRyxlQUFBO0FDUEg7O0FEVUEsV0FBQTtBQUVBO0VBQ0csa0JBQUE7RUFDQSxhQUFBO0VBQ0EsK0hBQUE7RUFDQSxrQ0FBQTtFQUNBLHNCQUFBO0VBQ0EsNEJBQUE7QUNSSDs7QURXQTtFQUNHLGtCQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxnQ0FBQTtFQUNBLGtCQUFBO0VBQ0EsY0E1Q1c7QUNvQ2Q7O0FEV0E7RUFDRyxrQkFBQTtFQUNBLHlCQUFBO0VBQ0Esa0JBQUE7QUNSSCIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
