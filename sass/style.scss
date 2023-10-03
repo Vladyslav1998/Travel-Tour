@@ -34,7 +34,7 @@ section {
 .splash {
    position: relative;
    height: 100vh;
-   background-image:  linear-gradient(rgba(0, 0, 0, 0.5)), url('https://preview.colorlib.com/theme/hepta/images/slider-1.jpg.webp');
+   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://preview.colorlib.com/theme/hepta/images/slider-1.jpg.webp');
    background-position: center center;
    background-size: cover;
    background-attachment: fixed;
